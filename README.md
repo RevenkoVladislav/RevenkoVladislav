@@ -25,8 +25,10 @@ My goal is to get my first commercial development experience and grow into a str
 
 | Repository | Stack | Description | Link |
 |---|---|---|---|
-| **Laravel Blog** | Laravel, MySQL, Auth, Admin Panel | Blog system with authentication, CRUD operations, admin panel, roles, media upload and UI interface. Contains screenshots and full README. |**https://github.com/RevenkoVladislav/blog-laravel.site** 
-| **JWT-SPA-VUE** | SPA with Laravel, Mysql, Vue.js, JWT auth, REST API | Small SPA with CRUD operations, JWT auth, API. Contains screenshots and full README. | **https://github.com/RevenkoVladislav/jwt-vue-laravel.site** |
+| **Laravel Blog** | Laravel, MySQL, Auth, Admin Panel | Blog system with authentication, CRUD operations, admin panel, roles, media upload and UI interface. Contains screenshots and full README. | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenkoVladislav&repo=blog-laravel.site)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RevenkoVladislav/blog-laravel.site.git)) |
+| **Workers** | Laravel, Mysql, Boostrap | Workers - a Laravel project for managing temporary work assignments. Contains screenshots and full README.  | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenkoVladislav&repo=workers.site)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RevenkoVladislav/workers.site/tree/main))|
+| **JWT-SPA-VUE** | SPA with Laravel, Mysql, Vue.js, JWT auth, REST API | Small SPA with CRUD operations, JWT auth, API. Contains screenshots and full README. | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RevenkoVladislav&repo=jwt-vue-laravel.site)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/RevenkoVladislav/jwt-vue-laravel.site.git)) |
+
 
 ---
 
