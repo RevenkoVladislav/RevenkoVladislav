@@ -56,7 +56,7 @@ it shaped my problem-solving skills, team thinking and ownership of results:
 ✨ I’m open to collaboration, internships and junior-level positions.  
 Actively improving my skills and building real projects — step by step toward becoming a strong backend engineer.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevenkoVladislav&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RevenkoVladislav&layout=compact&hide=javascript)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
